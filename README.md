@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @As-Tomas
 - 👀 I’m interested in Mobile APP's development
-- 🌱 I’m currently learning JavaScript, node.js
+- 🌱 I’m currently learning JavaScript, node.js, .NET-MAUI
 - 💞️ I’m looking to collaborate on anything what is related to APP's
 - 📫 How to reach me https://www.linkedin.com/in/tomas-bancevicius/
 
