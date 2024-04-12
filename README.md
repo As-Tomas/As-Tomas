@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @As-Tomas
 - 👀 I’m interested in AI integrations & Mobile APP's development
-- 🌱 I’m currently learning Next.js JavaScript, .NET-MAUI
+- 🌱 I’m currently learning Next.js, AI integration everywhere 😉 
 - 💞️ I’m looking to collaborate on anything what is related to AI || APP's
 - 📫 How to reach me https://www.linkedin.com/in/tomas-bancevicius/
 
