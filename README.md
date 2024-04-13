@@ -3,7 +3,7 @@
 - 👀 Jeg er interessert i integrasjoner av AI og utvikling av mobilapper.
 - 🌱 Jeg lærer for tiden Next.js, automatisering og testprogramvare.
 - 💞️ Jeg ser etter samarbeid om alt som er relatert til AI || apper.
-- 📜 Som en oppstart fullførte jeg bachelorgraden min som programmerer.
+- 📜 Som en del av min utvikling fullførte jeg min bachelorgrad i programmering..
 - 🧰 Mer om meg i porteføljen! https://as-tomas.github.io/Portfolio/#About
 - 📫 Hvordan nå meg https://www.linkedin.com/in/tomas-bancevicius/
 _______________________________________________________________________________________
